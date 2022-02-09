@@ -7,5 +7,14 @@ Programming practices in MATLAB for the subject of "Multimedia Information Codin
 
 ## Index:
 
+### 1. Voice Encoding.
+### 2. Audio Encoding.
+### 3. Image Encoding.
+### 4. Video Encoding.
+
+
+
+
+
 ---
 **@ All rights reserved to University Carlos III de Madrid**
