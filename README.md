@@ -7,3 +7,4 @@ Programming practices in MATLAB for the subject of "Multimedia Information Codin
 
 ## Index:
 
+**@ All rights reserved to University Carlos III de Madrid**
